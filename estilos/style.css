@@ -188,6 +188,7 @@ article img{
     nav{
         margin-top: 30px;
         justify-content: center;
+        gap: 5px;
     }
     
     main{
@@ -204,6 +205,10 @@ article img{
     section p{
         font-size: 1em;
         line-height: 1.5em;
+    }
+
+    main figure{
+        margin-top: 85px;
     }
 
     #btn{
